@@ -1,6 +1,6 @@
-This repository is a software template. “IMSU” names, logos, and branding remain the property of their respective owners and are not granted for reuse by this license.
+This repository is a software template. “IMZU” names, logos, and branding remain the property of their respective owners and are not granted for reuse by this license.
 
-# IMSU Postgraduate Admissions Portal
+# IMZU Postgraduate Admissions Portal
 
 Static, responsive portal prototype for postgraduate admission verification and applicant login.
 
